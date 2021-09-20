@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-20T12:57:13.465Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="fgqYzZ5EoNong_44iELB" version="15.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-20T12:58:25.124Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="JZqbM5CNJ9B_9lgEsiJr" version="15.2.9" type="github" pages="2">
   <diagram id="U6vCikzFW0vZ8T6bcUkg" name="Page-1">
     <mxGraphModel dx="2031" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -574,7 +574,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Item" id="GMgX4MLcLScTkPivpKum">
-    <mxGraphModel dx="4369" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4011" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="O9m_4HQa40UUcHwnIk4v-0" />
         <mxCell id="O9m_4HQa40UUcHwnIk4v-1" parent="O9m_4HQa40UUcHwnIk4v-0" />
@@ -719,7 +719,7 @@
           <mxGeometry y="312" width="160" height="8" as="geometry" />
         </mxCell>
         <mxCell id="O9m_4HQa40UUcHwnIk4v-46" value="UnitMeasureGroup" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="O9m_4HQa40UUcHwnIk4v-1">
-          <mxGeometry x="-1800" y="560" width="160" height="138" as="geometry">
+          <mxGeometry x="-1840" y="560" width="160" height="138" as="geometry">
             <mxRectangle x="840" y="40" width="200" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -834,7 +834,7 @@
         <object label="«enumeration»&#xa;InventorySystem" sap_doc_link="https://help.sap.com/viewer/68a2e87fb29941b5bf959a184d9c6727/9.3/pt-BR/45221d4373c80108e10000000a114a6b.html" id="O9m_4HQa40UUcHwnIk4v-95">
           <mxCell style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=10;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="O9m_4HQa40UUcHwnIk4v-1">
             <mxGeometry x="-2080" y="40" width="160" height="118" as="geometry">
-              <mxRectangle x="360" y="40" width="200" height="40" as="alternateBounds" />
+              <mxRectangle x="-2080" y="40" width="160" height="40" as="alternateBounds" />
             </mxGeometry>
           </mxCell>
         </object>
@@ -855,7 +855,7 @@
         <object label="«enumeration»&#xa;ProcurementMethod" sap_doc_link="https://help.sap.com/viewer/68a2e87fb29941b5bf959a184d9c6727/9.3/pt-BR/45221d4373c80108e10000000a114a6b.html" id="O9m_4HQa40UUcHwnIk4v-100">
           <mxCell style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=10;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="O9m_4HQa40UUcHwnIk4v-1">
             <mxGeometry x="-2080" y="177" width="160" height="92" as="geometry">
-              <mxRectangle x="360" y="40" width="200" height="40" as="alternateBounds" />
+              <mxRectangle x="-2080" y="177" width="150" height="40" as="alternateBounds" />
             </mxGeometry>
           </mxCell>
         </object>
@@ -870,7 +870,7 @@
         <object label="«enumeration»&#xa;ItemClass" sap_doc_link="https://help.sap.com/viewer/68a2e87fb29941b5bf959a184d9c6727/9.3/pt-BR/45221d4373c80108e10000000a114a6b.html" id="O9m_4HQa40UUcHwnIk4v-103">
           <mxCell style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=10;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="O9m_4HQa40UUcHwnIk4v-1">
             <mxGeometry x="-1840" y="249" width="160" height="92" as="geometry">
-              <mxRectangle x="360" y="40" width="200" height="40" as="alternateBounds" />
+              <mxRectangle x="-1840" y="249" width="160" height="40" as="alternateBounds" />
             </mxGeometry>
           </mxCell>
         </object>
